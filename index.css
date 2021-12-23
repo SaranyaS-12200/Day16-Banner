@@ -1,0 +1,102 @@
+body{
+    background-color:darkslategray;
+}
+.fa{
+    color:black;
+}
+.fa1{
+    color:red;
+}
+.h1{
+    color:lightsalmon;
+    font-size: 100px;
+    text-align: center;
+    font-style: italic;
+    padding: 5px;
+}
+.h2{
+    font-size: 25px;
+    color: lightyellow;
+    text-align: center;
+    font-style: italic;
+    padding: 0px;
+}
+img{
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.one{
+    background-color: orange;
+    color: whitesmoke;
+    text-align:center;
+    
+}
+.two{
+    background-color:blue;
+    color:whitesmoke;
+    text-align: center;  
+}
+.three{
+    background-color: palevioletred;
+    color: whitesmoke;
+}
+.grid-container{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap:10px;
+   font-size: 30px;
+}
+.four{
+    background-color: blue;
+    color: whitesmoke;
+    text-align: justify;
+}
+.grid-container1{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap:30px;
+   font-size: 20px;
+}
+.five{
+    background-color: indianred;
+    color: whitesmoke;
+    text-align: center;
+}
+.six{
+    background-color: orange;
+    color: whitesmoke;
+    text-align: center;
+}
+.seven{
+    background-color: blue;
+    color: whitesmoke;
+}
+.eight{
+    background-color: orange;
+    text-align: center;
+    color: whitesmoke;
+}
+.nine{
+    background-color:blue;
+    text-align: center;
+    color: whitesmoke;
+}
+.ten{
+    background-color:indianred;
+    text-align: center;
+    color: whitesmoke;
+}
+.a{
+    margin-bottom: 20px;
+    
+}
+.b{
+    margin-bottom: 50px;
+}
+.i{
+    padding: 30px;
+    color: black;
+    font-size: 80px;
+}
